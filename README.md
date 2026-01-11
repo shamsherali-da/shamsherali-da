@@ -1,14 +1,10 @@
-# 🕌 Assalamu Alaikum | Peace Be Upon You  
+#  Assalamu Alaikum | Peace Be Upon You  
 Welcome to my GitHub profile! I strive to share knowledge, build secure solutions, and deliver impactful projects.  
 
 ---
 
 # 👨‍💻 Software Engineer | 📊 Data Analyst | 🛡️ Cybersecurity Analyst | 💻 Freelancer  
 🚀 *Transforming data into insights. Securing digital ecosystems. Delivering solutions with precision.*  
-
-![GitHub followers](https://img.shields.io/github/followers/shamsherali?style=social)  
-![GitHub stars](https://img.shields.io/github/stars/shamsherali?style=social)  
-![Profile views](https://komarev.com/ghpvc/?username=shamsherali&color=blue) 
 
 ---
 
