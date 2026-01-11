@@ -1,52 +1,72 @@
-# ⚙️ DevOps Engineer | Cloud Architect | CI/CD Specialist  
-🚀 *Automating infrastructure. Accelerating delivery. Engineering reliability at scale.*
+# 📊 Data Analyst | 🛡️ Cybersecurity Analyst | 💻 Freelancer  
+🚀 *Transforming data into insights. Securing digital ecosystems. Delivering solutions with precision.*  
 
-![GitHub followers](https://img.shields.io/github/followers/shamsherali?style=social)
-![GitHub stars](https://img.shields.io/github/stars/shamsherali?style=social)
-![Profile views](https://komarev.com/ghpvc/?username=shamsherali&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/shamsherali?style=social)  
+![GitHub stars](https://img.shields.io/github/stars/shamsherali?style=social)  
+![Profile views](https://komarev.com/ghpvc/?username=shamsherali&color=blue)  
 
-## 🌐 [Portfolio Website](https://shamsherali-devops.github.io/my-portfolio/)  
 ---
 
-## 🔧 Core DevOps Expertise  
-- 🛠 **CI/CD Automation**: GitHub Actions, Jenkins, Gradle, GitLab CI  
-- 🐳 **Containerization & Orchestration**: Docker, Kubernetes, Helm  
-- ☁️ **Cloud Engineering**: AWS (EC2, S3, IAM), Azure DevOps, Terraform  
-- 🔐 **Security & Monitoring**: IAM policies, SSL, Prometheus, Grafana  
-- 📦 **Artifact & Version Control**: Git, Nexus, DockerHub  
-- 📈 **Performance Optimization**: Scalable pipelines, reduced deployment time, zero-downtime releases  
+## 🎓 Background  
+Computer Science Graduate (BSCS) with expertise in **data analytics, cybersecurity, and freelance software solutions**.  
+
+---
+
+## 🔧 Core Expertise  
+- 📈 **Data Analytics**: Python (Pandas, NumPy), SQL, Power BI, Tableau  
+- 🔐 **Cybersecurity**: Network security, penetration testing, vulnerability assessment, IAM policies  
+- 💻 **Software Engineering**: Building scalable applications, automation scripts, and secure systems  
+- 🌍 **Freelancing**: Delivering tailored solutions for businesses and individuals worldwide  
 
 ---
 
 ## 🚀 What I Deliver  
-- ✅ End-to-end CI/CD pipelines with automated testing and rollback strategies  
-- 🔄 Infrastructure as Code (IaC) for reproducible, scalable environments  
-- 🧩 Seamless integration between dev, staging, and production workflows  
-- 📊 Real-time monitoring and alerting for system health and performance  
-- 🔒 Secure, compliant deployments with audit-ready configurations  
+- ✅ Actionable insights from complex datasets for smarter decision-making  
+- 🔒 Secure, compliant systems with proactive threat detection and mitigation  
+- 🧩 Custom software and automation tools for efficiency and scalability  
+- 🌐 Freelance solutions designed to meet client goals with speed and reliability  
+
+---
+
+## 💼 Freelance Services  
+
+### 📊 Data Analytics  
+- **Data Cleaning & Transformation**: Turning raw, messy datasets into structured, usable information.  
+- **Business Intelligence Dashboards**: Interactive reports with Power BI, Tableau, or Python for clear decision‑making.  
+- **Predictive Analytics**: Applying statistical models and machine learning to forecast trends.  
+- **ETL Automation**: Streamlining data pipelines for efficiency and scalability.  
+
+### 🛡️ Cybersecurity  
+- **Vulnerability Assessment**: Identifying and mitigating risks before they become threats.  
+- **Penetration Testing**: Simulating real‑world attacks to strengthen defenses.  
+- **Security Hardening**: Configuring systems, networks, and applications for maximum resilience.  
+- **Incident Response & Monitoring**: Proactive detection, logging, and rapid response to security events.  
+
+### 🌍 Why Work With Me?  
+- 🎓 **Computer Science Graduate (BSCS)** — strong academic foundation in computing and security.  
+- 🚀 **Freelancer** — flexible, client‑focused, and committed to delivering tailored solutions.  
+- 🔒 **Trust & Reliability** — every project is handled with professionalism, confidentiality, and precision.  
+- 📈 **Impact‑Driven** — I don’t just deliver tasks; I deliver measurable results that empower growth and security.  
 
 ---
 
 ## 🛠️ Tech Stack & Tools  
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-blue?logo=githubactions)
-![Jenkins](https://img.shields.io/badge/Jenkins-Automation-red?logo=jenkins)
-![Docker](https://img.shields.io/badge/Docker-Containers-blue?logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes)
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-Cloud-blue?logo=microsoftazure)
-![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?logo=terraform)
-![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-orange?logo=prometheus)
-![Grafana](https://img.shields.io/badge/Grafana-Dashboards-yellow?logo=grafana)
-![Git](https://img.shields.io/badge/Git-Version%20Control-black?logo=git)
+![Python](https://img.shields.io/badge/Python-Data%20Science-blue?logo=python)  
+![SQL](https://img.shields.io/badge/SQL-Database-orange?logo=postgresql)  
+![Power BI](https://img.shields.io/badge/Power%20BI-Visualization-yellow?logo=powerbi)  
+![Tableau](https://img.shields.io/badge/Tableau-Analytics-blue?logo=tableau)  
+![Linux](https://img.shields.io/badge/Linux-Security-black?logo=linux)  
+![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analysis-blue?logo=wireshark)  
+![Git](https://img.shields.io/badge/Git-Version%20Control-black?logo=git)  
 
 ---
 
-## 📂 Featured DevOps Projects  
+## 📂 Featured Projects  
 | Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🔗 [CI/CD Pipeline Builder](https://github.com/shamsherali/cicd-pipeline) | Automated multi-stage deployment with rollback and notifications | GitHub Actions, Jenkins, Docker |
-| 🔗 [AWS IAM Cleanup CLI](https://github.com/shamsherali/aws-iam-cleanup) | CLI tool to manage and delete IAM users securely | AWS CLI, Bash |
-| 🔗 [K8s Monitoring Stack](https://github.com/shamsherali/k8s-monitoring) | Real-time cluster monitoring with Prometheus & Grafana | Kubernetes, Helm, Prometheus |
+|---------|-------------|------------|
+| 🔗 [Data Insights Dashboard](https://github.com/shamsherali/data-dashboard) | Interactive dashboards for business intelligence | Python, Power BI, SQL |
+| 🔗 [Cybersecurity Toolkit](https://github.com/shamsherali/cyber-toolkit) | Scripts for vulnerability scanning & log analysis | Python, Bash, Wireshark |
+| 🔗 [Freelance Automation Scripts](https://github.com/shamsherali/freelance-tools) | Custom solutions for clients (reports, ETL, monitoring) | Python, GitHub Actions |
 
 ---
 
@@ -54,15 +74,14 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/shamsher-devops)  
 - 🌐 [Portfolio Website](https://shamsherali-devops.github.io/my-portfolio/)  
 - 📧 Email: `shamsherdevp@gmail.com`  
-- 🛠️ [Fiverr Profile](https://www.fiverr.com/shamsherali) 
+- 🛠️ [Fiverr Profile](https://www.fiverr.com/shamsherali)  
 
 ---
 
 ## 📊 GitHub Stats  
 ![Shamsher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamsherali&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shamsherali&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shamsherali&layout=compact&theme=radical)  
 
 ---
 
-> _“Infrastructure should be invisible. Delivery should be instant. Reliability should be engineered.”_
-
+> _“Data drives decisions. Security builds trust. Freelancing delivers freedom.”_
