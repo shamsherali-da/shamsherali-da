@@ -1,11 +1,23 @@
+# 🕌 Assalamu Alaikum | Peace Be Upon You  
+Welcome to my GitHub profile! I strive to share knowledge, build secure solutions, and deliver impactful projects.  
+
+---
+
 # 👨‍💻 Software Engineer | 📊 Data Analyst | 🛡️ Cybersecurity Analyst | 💻 Freelancer  
 🚀 *Transforming data into insights. Securing digital ecosystems. Delivering solutions with precision.*  
 
 ![GitHub followers](https://img.shields.io/github/followers/shamsherali?style=social)  
 ![GitHub stars](https://img.shields.io/github/stars/shamsherali?style=social)  
 ![Profile views](https://komarev.com/ghpvc/?username=shamsherali&color=blue) 
-- 📱 WhatsApp: [+92 305 8840463](https://wa.me/923058840463)
-## 🌐 [Portfolio Website](https://shamsherali-devops.github.io/my-portfolio/) 
+
+---
+
+## 📬 Let’s Connect  
+- 📱 WhatsApp: [+92 305 8840463](https://wa.me/923058840463)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/shamsherali-da)  
+- 🌐 [Portfolio Website](https://shamsherali-devops.github.io/my-portfolio/)  
+- 📧 Email: `shamsherda99@gmail.com`  
+
 ---
 
 ## 🎓 Background  
@@ -68,14 +80,6 @@ Computer Science Graduate (BSCS) with expertise in **data analytics, cybersecuri
 | 🔗 [Data Insights Dashboard](https://github.com/shamsherali/data-dashboard) | Interactive dashboards for business intelligence | Python, Power BI, SQL |
 | 🔗 [Cybersecurity Toolkit](https://github.com/shamsherali/cyber-toolkit) | Scripts for vulnerability scanning & log analysis | Python, Bash, Wireshark |
 | 🔗 [Freelance Automation Scripts](https://github.com/shamsherali/freelance-tools) | Custom solutions for clients (reports, ETL, monitoring) | Python, GitHub Actions |
-
----
-
-## 📬 Let’s Connect  
-- 💼 [LinkedIn](https://www.linkedin.com/in/shamsher-devops)  
-- 🌐 [Portfolio Website](https://shamsherali-devops.github.io/my-portfolio/)  
-- 📧 Email: `shamsherdevp@gmail.com`  
-- 🛠️ [Fiverr Profile](https://www.fiverr.com/shamsherali)  
 
 ---
 
