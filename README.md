@@ -1,5 +1,5 @@
-#  Assalamu Alaikum | Peace Be Upon You  
-Welcome to my GitHub profile! I strive to share knowledge, build secure solutions, and deliver impactful projects.  
+
+### Welcome to my GitHub profile! I strive to share knowledge, build secure solutions, and deliver impactful projects.  
 
 ---
 
