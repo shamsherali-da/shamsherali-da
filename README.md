@@ -11,7 +11,7 @@
 ## 📬 Let’s Connect  
 - 📱 WhatsApp: [+92 701158492](https://wa.me/923058840463)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/shamsherali-da)  
-- 🌐 [Portfolio Website](https://shamsherali-devops.github.io/my-portfolio/)  
+- 🌐 [My Portfolio Website](https://shamsherali-da.github.io/my-portfolio/)  
 - 📧 Email: `shamsherda99@gmail.com`  
 
 ---
