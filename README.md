@@ -12,7 +12,7 @@ I strive to build scalable web solutions, share knowledge, and deliver impactful
 - 📱 WhatsApp: [+92 701158492](https://wa.me/923058840463)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/shamsherali-dev)  
 - 🌐 [My Portfolio Website](https://shamsherali-da.github.io/my-portfolio/)  
-- 📧 Email: `shamsherda99@gmail.com`  
+- 📧 Email: `shamsherdevp@gmail.com`  
 
 ---
 
