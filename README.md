@@ -1,71 +1,67 @@
-
-### Welcome to my GitHub profile! I strive to share knowledge, build secure solutions, and deliver impactful projects.  
+### Welcome to my GitHub profile!  
+I strive to build scalable web solutions, share knowledge, and deliver impactful projects that combine engineering precision with data-driven insights.  
 
 ---
 
-## 👨‍💻 Software Engineer | 📊 Data Analyst | 🛡️ Cybersecurity Analyst | 💻 Freelancer  
-🚀 *Transforming data into insights. Securing digital ecosystems. Delivering solutions with precision.*  
+## 👨‍💻 Software Engineer | 💻 MERN Stack Developer | 🌐 Frontend & Backend Specialist | 🎓 BSCS Graduate | 🌍 Freelancer | 📊 Data Analyst & Business Intelligence  
+🚀 *Building modern web applications. Unlocking growth with data insights. Delivering solutions with precision.*  
 
 ---
 
 ## 📬 Let’s Connect  
 - 📱 WhatsApp: [+92 701158492](https://wa.me/923058840463)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/shamsherali-da)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/shamsherali-dev)  
 - 🌐 [My Portfolio Website](https://shamsherali-da.github.io/my-portfolio/)  
 - 📧 Email: `shamsherda99@gmail.com`  
 
 ---
 
 ## 🎓 Background  
-Computer Science Graduate (BSCS) with expertise in **data analytics, cybersecurity, and freelance software solutions**.  
+Computer Science Graduate (BSCS) with expertise in **full‑stack web development, freelancing, and data analytics**.  
 
 ---
 
 ## 🔧 Core Expertise  
-- 📈 **Data Analytics**: Python (Pandas, NumPy), SQL, Power BI, Tableau  
-- 🔐 **Cybersecurity**: Network security, penetration testing, vulnerability assessment, IAM policies  
-- 💻 **Software Engineering**: Building scalable applications, automation scripts, and secure systems  
-- 🌍 **Freelancing**: Delivering tailored solutions for businesses and individuals worldwide  
+- 💻 **Web Development (MERN Stack)**: React, Node.js, Express.js, MongoDB  
+- 🌐 **Frontend Development**: Responsive UI/UX, modern JavaScript (ES6+)  
+- ⚙️ **Backend Development**: RESTful APIs, authentication, scalable server-side apps  
+- 📊 **Data Analytics**: SQL, Excel, Power BI, Python (Pandas, NumPy)  
+- 🌍 **Freelancing**: Delivering tailored web solutions for businesses worldwide  
 
 ---
 
 ## 🚀 What I Deliver  
-- ✅ Actionable insights from complex datasets for smarter decision-making  
-- 🔒 Secure, compliant systems with proactive threat detection and mitigation  
-- 🧩 Custom software and automation tools for efficiency and scalability  
-- 🌐 Freelance solutions designed to meet client goals with speed and reliability  
+- ✅ Scalable and secure web applications with modern architectures  
+- 🧩 Full‑stack solutions from frontend design to backend logic  
+- 📊 Actionable insights through dashboards and BI reporting  
+- 🌐 Freelance services designed to meet client goals with speed and reliability  
 
 ---
 
 ## 💼 Freelance Services  
 
+### 💻 Web Development  
+- **Custom Web Applications**: Built with MERN Stack for scalability and performance  
+- **Frontend Solutions**: Responsive, user-friendly designs with React  
+- **Backend Systems**: Secure APIs, authentication, and optimized workflows  
+- **Deployment & DevOps**: CI/CD pipelines and cloud-based hosting  
+
 ### 📊 Data Analytics  
-- **Data Cleaning & Transformation**: Turning raw, messy datasets into structured, usable information.  
-- **Business Intelligence Dashboards**: Interactive reports with Power BI, Tableau, or Python for clear decision‑making.  
-- **Predictive Analytics**: Applying statistical models and machine learning to forecast trends.  
-- **ETL Automation**: Streamlining data pipelines for efficiency and scalability.  
-
-### 🛡️ Cybersecurity  
-- **Vulnerability Assessment**: Identifying and mitigating risks before they become threats.  
-- **Penetration Testing**: Simulating real‑world attacks to strengthen defenses.  
-- **Security Hardening**: Configuring systems, networks, and applications for maximum resilience.  
-- **Incident Response & Monitoring**: Proactive detection, logging, and rapid response to security events.  
-
-### 🌍 Why Work With Me?  
-- 🎓 **Computer Science Graduate (BSCS)** — strong academic foundation in computing and security.  
-- 🚀 **Freelancer** — flexible, client‑focused, and committed to delivering tailored solutions.  
-- 🔒 **Trust & Reliability** — every project is handled with professionalism, confidentiality, and precision.  
-- 📈 **Impact‑Driven** — I don’t just deliver tasks; I deliver measurable results that empower growth and security.  
+- **Data Cleaning & Transformation**: Turning raw data into structured insights  
+- **Business Intelligence Dashboards**: Interactive reports with Power BI, Tableau, or Python  
+- **Exploratory Analysis & Reporting**: Clear, actionable insights for decision-making  
+- **ETL Automation**: Streamlined pipelines for efficiency and scalability  
 
 ---
 
 ## 🛠️ Tech Stack & Tools  
+![React](https://img.shields.io/badge/React-Frontend-blue?logo=react)  
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green?logo=node.js)  
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-darkgreen?logo=mongodb)  
+![Express.js](https://img.shields.io/badge/Express.js-Server-lightgrey?logo=express)  
 ![Python](https://img.shields.io/badge/Python-Data%20Science-blue?logo=python)  
 ![SQL](https://img.shields.io/badge/SQL-Database-orange?logo=postgresql)  
 ![Power BI](https://img.shields.io/badge/Power%20BI-Visualization-yellow?logo=powerbi)  
-![Tableau](https://img.shields.io/badge/Tableau-Analytics-blue?logo=tableau)  
-![Linux](https://img.shields.io/badge/Linux-Security-black?logo=linux)  
-![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analysis-blue?logo=wireshark)  
 ![Git](https://img.shields.io/badge/Git-Version%20Control-black?logo=git)  
 
 ---
@@ -73,9 +69,9 @@ Computer Science Graduate (BSCS) with expertise in **data analytics, cybersecuri
 ## 📂 Featured Projects  
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| 🔗 [MERN Portfolio Website](https://github.com/shamsherali/my-portfolio) | Personal portfolio showcasing projects & skills | React, Node.js, Express, MongoDB |
 | 🔗 [Data Insights Dashboard](https://github.com/shamsherali/data-dashboard) | Interactive dashboards for business intelligence | Python, Power BI, SQL |
-| 🔗 [Cybersecurity Toolkit](https://github.com/shamsherali/cyber-toolkit) | Scripts for vulnerability scanning & log analysis | Python, Bash, Wireshark |
-| 🔗 [Freelance Automation Scripts](https://github.com/shamsherali/freelance-tools) | Custom solutions for clients (reports, ETL, monitoring) | Python, GitHub Actions |
+| 🔗 [Freelance Web Solutions](https://github.com/shamsherali/freelance-tools) | Custom solutions for clients (apps, reports, ETL) | MERN Stack, Python, GitHub Actions |
 
 ---
 
@@ -85,4 +81,4 @@ Computer Science Graduate (BSCS) with expertise in **data analytics, cybersecuri
 
 ---
 
-> _“Data drives decisions. Security builds trust. Freelancing delivers freedom.”_
+> _“Engineering builds solutions. Data unlocks insights. Freelancing delivers freedom.”_
